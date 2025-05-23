@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
  
-![gif](Images\1.gif)
+![gif](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/1.gif)
 
 ## Introduction
 
@@ -9,7 +9,7 @@ This Excel Salary Dashboard is designed to help job seekers easily understand va
 The dashboard is built using Microsoft Excel, utilizing features such as PivotTables, slicers, and interactive charts. The data includes information on location, main job roles, and the levels or positions within each role. This combination of data helps users gain a more comprehensive and relevant view of salary trends across different regions and position levels.
 
 
-My final dashboard can access here : [Salary dashboard](D:\Output\Excel-Portofolio\Excel-Portofolio\data_science_salaries_dashboard.xlsx)
+My final dashboard can access here : [Salary dashboard](https://github.com/nawar27/Excel-Portofolio/blob/main/data_science_salaries_dashboard.xlsx)
 
 ### Excel Skills Used
 
@@ -30,7 +30,7 @@ The dataset used for this project contains real-world data science job informati
 
 ### 📉Charts
 📊 **Data Science Job Salaries - Bar Chart**
-![bar chart](Images\2.png)
+![bar chart](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/2.png)
 
 - 🛠️ Excel Tools Used: Employed Excel’s map chart functionality to visualize median salaries by country.
 
@@ -67,10 +67,10 @@ The dataset used for this project contains real-world data science job informati
 - 🔢 **Formula Purpose**: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
 📋 **Background Table**
-![table](Images\3.png)
+![table](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/3.png)
 
 📉 **Dashboard Implementation**
-![pic](Images\4.png)
+![pic](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/4.png)
 
 ⏰ **Count of Job Schedule Type**
 
@@ -84,11 +84,11 @@ The dataset used for this project contains real-world data science job informati
 
 **Background Table**
 
-![image](Images\5.png)
+![image](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/5.png)
 
 **Dashboard Implementation**
 
-![image](Images\6.png)
+![image](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/6.png)
 
 
 ## ❎ Data Validation
@@ -102,7 +102,7 @@ The dataset used for this project contains real-world data science job informati
   - 🚫 Entry errors and inconsistencies are effectively avoided
   - 👥 The dashboard’s overall user experience is significantly improved
 
-  ![gif](Images\7.gif)
+  ![gif](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/7.gif)
 
 ## Conclusion
 
