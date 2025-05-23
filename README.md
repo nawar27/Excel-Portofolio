@@ -32,6 +32,7 @@ The dataset used for this project contains real-world data science job informati
 📊 **Data Science Job Salaries - Bar Chart**
 ![bar chart](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/2.png)
 
+
 - 🛠️ Excel Tools Used: Employed Excel’s map chart functionality to visualize median salaries by country.
 
 - 🎨 Visualization Approach: Applied color gradients to distinguish salary ranges across various regions.
@@ -69,8 +70,10 @@ The dataset used for this project contains real-world data science job informati
 📋 **Background Table**
 ![table](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/3.png)
 
+
 📉 **Dashboard Implementation**
 ![pic](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/4.png)
+
 
 ⏰ **Count of Job Schedule Type**
 
@@ -85,6 +88,7 @@ The dataset used for this project contains real-world data science job informati
 **Background Table**
 
 ![image](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/5.png)
+
 
 **Dashboard Implementation**
 
@@ -103,6 +107,7 @@ The dataset used for this project contains real-world data science job informati
   - 👥 The dashboard’s overall user experience is significantly improved
 
   ![gif](https://github.com/nawar27/Excel-Portofolio/blob/main/Images/7.gif)
+
 
 ## Conclusion
 
